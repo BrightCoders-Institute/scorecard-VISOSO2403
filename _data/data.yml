@@ -86,6 +86,12 @@ experiences:
     details: |
       My role was to design the views with Figma and use React Native for the development of a mobile application designed so that anyone looking for a job or needing to hire someone can do it, an app open to the public that does not necessarily require having a company. I worked remotely with 3 other team members.
 
+  - role: TravelB
+    time: Jul 2023- Mar 2024
+    company: Universidad de Colima
+    details: |
+      Mobile application for electric vehicle rental where I supervised the UI/UX design as well as the implementation of these designs and made the QR scanning modules using the device's camera, as well as the implementation of the geolocation of the user through the device's gps.
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
