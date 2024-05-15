@@ -2,25 +2,24 @@
 # Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
 
-
 sidebar:
   about: False # NO MODIFICAR
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Oliver Visoso # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: ovisosodev@gmail.com
+  phone: 314 179 3449
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: Oliver Gabriel Visoso Flores # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: VISOSO2403 # solo tu nombre de usuario en github o dejar en blanco
+  gitlab: # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket: # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: "@ovisosodev" # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,72 +27,64 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: A2 Elementary # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Punctuality
       link: # dejar en blanco
 
-    - item: Effective communication
+    - item: Assertive Communication
       link: # dejar en blanco
 
-    - item: Good Team Player
+    - item: Team Leader
       link: # dejar en blanco
 
     - item: Positive Attitude
       link: # dejar en blanco
 
-    - item: Time and Task Management
+    - item: Responsible
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    I am a developer with experience in both mobile and web, specialized in React and familiar with agile methodologies such as Kanban. My focus is on collaborative work, leadership and effective communication.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2019 - Actually
     details: |
-      Facultad de Telemática - Software Engineer.
+      Facultad de Ingeniería Electromecánica - Software Engineer.
 
-  - degree: Python Certification
+  - degree: React Native Aplicaciones nativas para IOS y Android Certification
     university: Udemy
-    time: 2022
+    time: 2023
     details: |
-      300 hrs course certification.
+      33 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Jan 2024 - May 2024
     company: Bright Coders, Mexico
     details: |
-      Develop native applications with technologies such as Javascript and React Native, 
+      Develop native applications with technologies such as TypeScript and React Native, 
       while implementing good practices, test-based development, tools for managing local 
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
+  - role: WorkMatch
+    time: Mar 2024 - May 2024
     company: BrightCoders
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
-
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
-    details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      My role was to design the views with Figma and use React Native for the development of a mobile application designed so that anyone looking for a job or needing to hire someone can do it, an app open to the public that does not necessarily require having a company. I worked remotely with 3 other team members.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,9 +97,9 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 40%
+      level-name: Advanced beginner
+      time: 1+ years
 
     - name: React
       level: 40%
@@ -116,9 +107,14 @@ skills:
       time: 1 year
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
-      time: 2+ years
+      level: 50%
+      level-name: Advanced beginner
+      time: 1+ years
+
+    - name: GitHub
+      level: 50%
+      level-name: Advanced beginner
+      time: 1+ years
 
 # NO MODIFICAR
 footer: >
